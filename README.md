@@ -155,30 +155,24 @@ node backend/brahma_onchain_strategy.js
  ├── package.json            # Project dependencies
  ├── README.md               # Project documentation
 
+---
 
+## 🧰 Tech Stack
 
-Tech Stack
-Blockchain & DeFi: Safe (Gnosis), CoW Protocol, Polymarket, BrahmaFi, Sei
+- **Blockchain & DeFi**: Safe (Gnosis), CoW Protocol, Polymarket, BrahmaFi, Sei  
+- **AI & Automation**: OpenAI, DuckAI, Mech Agents, ConsoleKit  
+- **Languages & Tools**: Node.js, Python, Express.js, ethers.js, Web3.js  
 
-AI & Automation: OpenAI, DuckAI, Mech AI Agents, ConsoleKit
+---
 
-Languages & Frameworks: Node.js, Python, Express.js
+## 🔮 Planned Enhancements
 
-Security & Connectivity: ethers.js, Web3.js
+- 🔗 Integrate Chainlink for price oracles  
+- 🎯 Improve AI meme context & targeting  
+- 📡 Launch Telegram/Discord alert bot  
+- 🧠 Upgrade Mech agents with dynamic learning  
+- 💹 Enhance DuckAI with real-time trading loops  
+- 💼 Add multi-collateral support to BrahmaFi  
+- 🛡️ Introduce liquidation protection in Sei lending  
 
-
-Planned Enhancements
- Integrate Chainlink for price oracles
-
- Improve AI meme generation contextual accuracy
-
- Launch Telegram/Discord Bot for real-time alerts
-
- Upgrade Mech agent with dynamic strategies
-
- Optimize DuckAI for continuous on-chain trading
-
- Extend BrahmaFi with multi-collateral strategies
-
- Add liquidation protection to Sei lending features
 
